@@ -1,5 +1,5 @@
 /** smart.js
 **/
-const element = document.getElementById('7')
+const element_test = document.getElementById('test')
 document.body.contentEditable = "true";
 document.designMode = "on";
